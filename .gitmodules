@@ -1,0 +1,123 @@
+[submodule "comp/doc_cppmake"]
+	path = comp/doc_cppmake
+	url = https://github.com/kubicas/57e84fea764a42808d479b6b1afccd4d/
+[submodule "comp/doc_git"]
+	path = comp/doc_git
+	url = https://github.com/kubicas/b46c81ec5ed5454b817acd089564dc3d/
+[submodule "comp/doc_latex"]
+	path = comp/doc_latex
+	url = https://github.com/kubicas/6b2c66bf03cb41ca9da2ade01ed594ef/
+[submodule "comp/doc_libgitssh"]
+	path = comp/doc_libgitssh
+	url = https://github.com/kubicas/da71e1b2d1de40a3bb2965cf7176f37b/
+[submodule "comp/doc_shared"]
+	path = comp/doc_shared
+	url = https://github.com/kubicas/d74ab5cb9e8f4a67b779e2352d4f8e25/
+[submodule "comp/doc_template_beamer"]
+	path = comp/doc_template_beamer
+	url = https://github.com/kubicas/f1a14e393aaa41be9461c9f4d88951d6/
+[submodule "comp/doc_template_book"]
+	path = comp/doc_template_book
+	url = https://github.com/kubicas/618a8208ad714a92bad9e92f6cc4690e/
+[submodule "comp/doc_usb_repo"]
+	path = comp/doc_usb_repo
+	url = https://github.com/kubicas/e1f3cd9433e642fd8940f9121b36db68/
+[submodule "comp/eps"]
+	path = comp/eps
+	url = https://github.com/kubicas/14aecc30f8a4416b95dc04dd77137e84/
+[submodule "comp/fig_cppmake_test_executor_nothing_to_build_uml_sd"]
+	path = comp/fig_cppmake_test_executor_nothing_to_build_uml_sd
+	url = https://github.com/kubicas/409c9c64a6bd4005853bb194329cdd72/
+[submodule "comp/flying_start"]
+	path = comp/flying_start
+	url = https://github.com/kubicas/ad211221914b426fa7868a6514f456cb/
+[submodule "comp/repo"]
+	path = comp/repo
+	url = https://github.com/kubicas/abbecb3080d64705a0377b7e8359b37f/
+[submodule "comp/uml"]
+	path = comp/uml
+	url = https://github.com/kubicas/9271a43bd5dc4147aeddb1d635e2c42c/
+[submodule "ext/doc/std_c++"]
+	path = ext/doc/std_c++
+	url = https://github.com/kubicas/53e6fb519b3344c6ab3d94163360fa35/
+[submodule "ext/intf/git2"]
+	path = ext/intf/git2
+	url = https://github.com/kubicas/c762b590b72d43f796ee0295e5d8a75e/
+[submodule "ext/intf/ssh2"]
+	path = ext/intf/ssh2
+	url = https://github.com/kubicas/4d8282a7c0f54ebc87f54cc907dcc8c6/
+[submodule "ext/lib/git2/winx64d"]
+	path = ext/lib/git2/winx64d
+	url = https://github.com/kubicas/87dde7fc6f2347899d0bf1f402e8f866/
+[submodule "ext/lib/git2/winx64r"]
+	path = ext/lib/git2/winx64r
+	url = https://github.com/kubicas/1094002ed01c42b586c68b3666733187/
+[submodule "ext/lib/git2/winx86d"]
+	path = ext/lib/git2/winx86d
+	url = https://github.com/kubicas/a0fffd67293841f7a0bb41f89d33fece/
+[submodule "ext/lib/git2/winx86r"]
+	path = ext/lib/git2/winx86r
+	url = https://github.com/kubicas/b7b02d2398684a839b7598dab843fc31/
+[submodule "ext/lib/ssh2/winx64d"]
+	path = ext/lib/ssh2/winx64d
+	url = https://github.com/kubicas/3359ada3b1234b188f08711ac296b5d5/
+[submodule "ext/lib/ssh2/winx64r"]
+	path = ext/lib/ssh2/winx64r
+	url = https://github.com/kubicas/8c80b990c07d41dd980f164c5c3c801a/
+[submodule "ext/lib/ssh2/winx86d"]
+	path = ext/lib/ssh2/winx86d
+	url = https://github.com/kubicas/7c6c6054c96442149c67d82714f586d7/
+[submodule "ext/lib/ssh2/winx86r"]
+	path = ext/lib/ssh2/winx86r
+	url = https://github.com/kubicas/fc4bc0479b4045b4853cace455b350fa/
+[submodule "ext/tgt/git/winx86r"]
+	path = ext/tgt/git/winx86r
+	url = https://github.com/kubicas/485ba5ee5b3b4ec19b038a5887d12c8e/
+[submodule "intf/eps"]
+	path = intf/eps
+	url = https://github.com/kubicas/1659d1d501e246b3b6da92a4171c0e55/
+[submodule "intf/repo"]
+	path = intf/repo
+	url = https://github.com/kubicas/4abedc911f524ff4ac347e4319b12b89/
+[submodule "intf/uml"]
+	path = intf/uml
+	url = https://github.com/kubicas/31ce3acd5ce5445d931af4c8592ff1f5/
+[submodule "comp/cppmake"]
+	path = comp/cppmake
+	url = https://github.com/kubicas/73cecbea87e04ae685c66c4b68997dcc/
+[submodule "comp/test"]
+	path = comp/test
+	url = https://github.com/kubicas/e9cdf46404d24f91b257a45dc2eb302d/
+[submodule "intf/exception"]
+	path = intf/exception
+	url = https://github.com/kubicas/7116d7b7efb246bf9b8295ddf8b9061d/
+[submodule "intf/test"]
+	path = intf/test
+	url = https://github.com/kubicas/c008e8c01f8a437089c9bc2942a8b557/
+[submodule "intf/stb"]
+	path = intf/stb
+	url = https://github.com/kubicas/be6b58100aec43b0959eda228780c466/
+[submodule "intf/cppmake"]
+	path = intf/cppmake
+	url = https://github.com/kubicas/050dd12efde24fc8ab1c4b2546dd49fa/
+[submodule "intf/bytestream"]
+	path = intf/bytestream
+	url = https://github.com/kubicas/6768bdd9e4674297b90bc1b44a314e8f/
+[submodule "comp/doc_scrum"]
+	path = comp/doc_scrum
+	url = https://github.com/kubicas/148d1c924b6741b4bced0107452f01ff/
+[submodule "ext/tgt/texlive"]
+	path = ext/tgt/texlive
+	url = https://github.com/kubicas/c375f823ef2f4479afbceb5509bed861/
+[submodule "ext/tgt/sdk/win/10.0.17134.0"]
+	path = ext/tgt/sdk/win/10.0.17134.0
+	url = https://github.com/kubicas/47adb3f64a90426da74c7380a85d9744/
+[submodule "ext/tgt/msc/win"]
+	path = ext/tgt/msc/win
+	url = https://github.com/kubicas/bbafea1fe71f4e32ade09d22899fe006/
+[submodule "ext/fig"]
+	path = ext/fig
+	url = https://github.com/kubicas/0c7b976d4d8a42f28c41c66bcebc6a35/
+[submodule "ext/doc/postscript"]
+	path = ext/doc/postscript
+	url = https://github.com/kubicas/8839b9636615475987a2680a3db9d075/

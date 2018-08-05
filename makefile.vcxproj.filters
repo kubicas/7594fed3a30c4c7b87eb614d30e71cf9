@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files\cppmake">
+      <UniqueIdentifier>{61e66303-cbbd-4565-9010-c355449ef07d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc_cppmake">
+      <UniqueIdentifier>{5671a69d-4e9c-408b-b921-91f4e4566f24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc_git">
+      <UniqueIdentifier>{87d4bad9-e643-480a-9208-3e8cccaa1928}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc_latex">
+      <UniqueIdentifier>{3941516f-21e9-40ca-8dee-d352c905be38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc_libgitssh">
+      <UniqueIdentifier>{b0a188c2-c061-4177-b411-4001fa86f0f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc_template_beamer">
+      <UniqueIdentifier>{afe602db-1503-4fe8-84d7-d8abdd1b7c41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc_template_book">
+      <UniqueIdentifier>{744d2208-1ba3-4085-89c1-24500358d8c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\doc_usb_repo">
+      <UniqueIdentifier>{72e224e1-82af-4393-aef7-c26eb328aab9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\eps">
+      <UniqueIdentifier>{6c813578-03c3-4a0f-96be-6050deceea65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\fig_cppmake_test_executor_nothing_to_build_uml_sd">
+      <UniqueIdentifier>{17567ae0-dc73-4833-b253-1783d1fd0ebe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\flying_start">
+      <UniqueIdentifier>{bfe58f1b-b494-48e8-b112-6d74884b4264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\repo">
+      <UniqueIdentifier>{22cbae55-94c8-4f7f-86dd-36f1168aeaaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\test">
+      <UniqueIdentifier>{12996770-efc2-4cab-a550-034bd258bd05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\uml">
+      <UniqueIdentifier>{134926db-192e-4307-a540-06bc21e6c550}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="comp\cppmake\makefile.cpp">
+      <Filter>Source Files\cppmake</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\doc_cppmake\makefile.cpp">
+      <Filter>Source Files\doc_cppmake</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\doc_git\makefile.cpp">
+      <Filter>Source Files\doc_git</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\doc_latex\makefile.cpp">
+      <Filter>Source Files\doc_latex</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\doc_libgitssh\makefile.cpp">
+      <Filter>Source Files\doc_libgitssh</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\doc_template_beamer\makefile.cpp">
+      <Filter>Source Files\doc_template_beamer</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\doc_template_book\makefile.cpp">
+      <Filter>Source Files\doc_template_book</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\doc_usb_repo\makefile.cpp">
+      <Filter>Source Files\doc_usb_repo</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\eps\makefile.cpp">
+      <Filter>Source Files\eps</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\fig_cppmake_test_executor_nothing_to_build_uml_sd\makefile.cpp">
+      <Filter>Source Files\fig_cppmake_test_executor_nothing_to_build_uml_sd</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\flying_start\makefile.cpp">
+      <Filter>Source Files\flying_start</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\repo\makefile.cpp">
+      <Filter>Source Files\repo</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\test\makefile.cpp">
+      <Filter>Source Files\test</Filter>
+    </ClCompile>
+    <ClCompile Include="comp\uml\makefile.cpp">
+      <Filter>Source Files\uml</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="intf\cppmake\makefile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
